@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+data/
+subissions/
+model_predictions/
+kfolds/
+model_source/
+
 # Distribution / packaging
 .Python
 build/
